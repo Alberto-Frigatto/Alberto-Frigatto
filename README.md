@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @Alberto-Frigatto
-- 👀 I’m interested in Front-end, Back-end and Database
-- 🌱 I’m currently learning Sass, Python and SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me albertofrigattoferreira@gmail.com, @albertofrigatto (Instagram)
+# Hello, I'm Alberto Frigatto 👋
 
-<!---
-Alberto-Frigatto/Alberto-Frigatto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Full-Stack developer and Systems Development Technician graduated from **Etec** (Escola Técnica de São Paulo).
+
+In 2023 I will be studying Tenology in Analysis and Systems Development with qualification in Full-Stack, Mobile and Artificial Intelligence by **FIAP** (Faculdade de Informática e Administração Paulista).
+
+<br/>
+
+### I currently have two years of programming and I have experience in:
+
+---
+
+- Front End
+   - HTML5
+   - CSS3
+   - JavaScript
+   - jQuery
+   - SCSS
+   - Bootstrap
+   - Reactjs
+- Backend
+   - Python
+   - MVC software architecture
+   - Use of APIs
+   - PHP8
+- Database
+   - SQLServer
+   - MySQL
+
+<br/>
+
+### I also have experience in
+
+---
+
+- Leadership team
+- photoshop
+- Database Modeling
+- website hosting
