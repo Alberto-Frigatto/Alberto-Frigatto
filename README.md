@@ -1,12 +1,13 @@
-# Hello, I'm Alberto Frigatto 👋
+# Olá eu Alberto Frigatto 👋
 
-I'm a Full-Stack developer and Systems Development Technician graduated from **Etec** (Escola Técnica de São Paulo).
+Eu sou um desenvolvedor FullStack e técnico em desenvolvimento de sistemas gaduado pela **ETEC**
 
-In 2023 I will be studying Tenology in Analysis and Systems Development with qualification in Full-Stack, Mobile and Artificial Intelligence by **FIAP** (Faculdade de Informática e Administração Paulista).
+
+Atualmente estou cursando Tecnólogo em análise e desenvolvimento de sistemas com habilitação em FullStack, Apps e Artificial Intelligence pela **FIAP**
 
 <br/>
 
-### I currently have two years of programming and I have experience in:
+### Tenho quase 3 anos de experiência em programação, e tenho conhecimentos em:
 
 ---
 
@@ -18,22 +19,30 @@ In 2023 I will be studying Tenology in Analysis and Systems Development with qua
    - SCSS
    - Bootstrap
    - Reactjs
-- Backend
+- Back End
    - Python
-   - MVC software architecture
-   - Use of APIs
-   - PHP8
+   - Java
+   - Arquitetura MVC
+   - Uso de APIs
 - Database
    - SQLServer
    - MySQL
+   - Oracle
+   - Modelagem
+- Data science
+   - Testes estatísticos
+   - Visualização de dados
+   - Extração de insights
+   - Análise de dados
+   - Machine Learning
 
 <br/>
 
-### I also have experience in
+### Também tenho conhecimentos em:
 
 ---
 
-- Leadership team
-- photoshop
-- Database Modeling
-- website hosting
+- Metodologia ágil SCRUM
+- Liderança de times 
+- Photoshop
+- Hosteamento de sites
