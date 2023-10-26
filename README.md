@@ -1,4 +1,4 @@
-# Olá eu Alberto Frigatto 👋
+# Olá eu sou Alberto Frigatto 👋
 
 Eu sou um desenvolvedor FullStack e técnico em desenvolvimento de sistemas gaduado pela **ETEC**
 
