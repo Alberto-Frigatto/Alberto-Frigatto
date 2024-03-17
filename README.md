@@ -69,4 +69,9 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-frigatto&layout=compact&theme=dark&hide_border=false)
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-frigatto&layout=donut&theme=algolia" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alberto-frigatto&hide=contribs,issues&show_icons=true&theme=algolia&rank_icon=github&include_all_commits=true" />
+</a>
